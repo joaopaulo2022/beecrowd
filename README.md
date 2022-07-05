@@ -1,2 +1,2 @@
-# beecrowd.
+# beecrowd
 Atividade avaliativa
